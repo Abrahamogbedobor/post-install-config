@@ -22,9 +22,9 @@ This tutorial outlines the post-installation configuration of the open-source he
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Enable Internet Information Services (IIS)
-- Install Web Platform
-- Install MY SQL (Setting up Username and Password)
+- Creating Users
+- Defining SLA
+- Creating Severity Level
 - Install C++ Redistributable 
 - Installation of OSTicket and Setting up Permission
 
