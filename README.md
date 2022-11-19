@@ -34,7 +34,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 <img src="https://i.imgur.com/WFlshZm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The post installation cofiguration steps involves connecting to microsoft Azure and using the public IP of the virtual machine created during   (From mac it will be an app from microsoft remote desktop that needed to be use in connecting to Azure
+Prior to the post installation cofiguration steps, the IP address of the virtual machine that was previously created was used to connect to remote desktop computer as shown above. Notably, this lab uses microsoft remote desktop however, on a mac computer microsoft remote deslktop needed to be downloaded from app store.   (From mac it will be an app from microsoft remote desktop that needed to be use in connecting to Azure
 </p>
 <br />
 
