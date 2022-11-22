@@ -25,7 +25,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 - Creating Users
 - Defining SLA
 - Creating Severity Level
-- Install C++ Redistributable 
+- Install C++ Redistributable
 - Installation of OSTicket and Setting up Permission
 
 <h2>Configuration Steps</h2>
