@@ -34,7 +34,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 <img src="https://i.imgur.com/WFlshZm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Prior to the post installation configuration steps, the IP address of the virtual machine that was previously created was used to connect to remote desktop computer as shown above. Notably, this lab uses microsoft remote desktop however, on a mac computer microsoft remote desktop needed to be downloaded from app store. After logging in as an admin, the osTicket admin page will open as shown above. From this admin page, users were then created as first step of the osTicket post-installation configuration process.
+Prior to the post installation configuration steps, the IP address of the virtual machine that was previously created was used to connect to remote desktop computer as shown above. Notably, this lab uses microsoft remote desktop however, on a mac computer microsoft remote desktop needed to be downloaded from app store. After logging in as an admin, the osTicket admin page was then open as shown above from the admin userface, 'users were then created' as first step of the osTicket post-installation configuration process.
 </p>
 <br />
 
