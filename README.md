@@ -71,9 +71,9 @@ A new department was created named 'System Administrator' using default SLA and 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Su783jY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The figure above is team which allows system administrators to pull different agents into one single group.
+The figure above is team which allows system administrators to pull different agents from various department into one single group. 
 </p>
 <br />
