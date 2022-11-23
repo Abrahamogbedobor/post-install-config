@@ -77,3 +77,19 @@ A new department was created named 'System Administrator' using default SLA and 
 The figure above is team which allows system administrators to pull different agents from various department into one single group. 
 </p>
 <br />
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The figure above is team which allows system administrators to pull different agents from various department into one single group. 
+</p>
+<br />
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The figure above is team which allows system administrators to pull different agents from various department into one single group. 
+</p>
+<br />
