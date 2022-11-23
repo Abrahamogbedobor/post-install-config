@@ -47,7 +47,7 @@ The above interface comprises of two users of the osTicket platform such as 'adm
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/W48pux7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In configuring a new role to a user(agent) by syst-admin the configuration steps involves a click on Agent..> Roles..> on the admin panel. These steps were based on osTicket documentation on Azure. Note, roles are permision granted to ageents based on department they have access to. In the above figure, a role was created called supreme admin and this agent was granted some permision by syst-admin.
@@ -55,7 +55,7 @@ In configuring a new role to a user(agent) by syst-admin the configuration steps
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/W48pux7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In configuring a new role to a user by syst-admin on Open Source Ticketing platform, the configuration steps involves hese navigation steps clickng Agent..> Roles..> on the admin panel.
