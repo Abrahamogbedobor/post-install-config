@@ -66,7 +66,7 @@ A new role was created named 'supreme admin' with full permision on osTicket pla
 <img src="https://i.imgur.com/QmsjpvV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-A new department was created named 
+A new department was created named 'System Administrator' using default SLA and other in-built settings such as email addresses.
 </p>
 <br />
 
@@ -74,6 +74,6 @@ A new department was created named
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In 
+The figure above is team which allows system administrators to pull different agents into one single group.
 </p>
 <br />
