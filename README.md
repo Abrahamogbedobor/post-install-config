@@ -74,7 +74,7 @@ A new department was created named 'System Administrator' using default SLA and 
 <img src="https://i.imgur.com/Su783jY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Team invoves pulling different agents from various department into one single group to solve specific issue.
+Team invoves pulling different agents from various department into one single group to solve specific issue. From the above figure level 11 support team was created with no team leader assigned to it.
 </p>
 <br />
 
