@@ -23,7 +23,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 <h2>Post-Install Configuration Objectives</h2>
 
 - Creating Roles, Departments, and Teams
-- Creating Uers
+- Creating Uers (Ananimous and Agents)
 - Defining SLA
 - Install C++ Redistributable
 - Installation of OSTicket and Setting up Permission
@@ -82,7 +82,7 @@ Team involves pulling different agents from various department into one single g
 <img src="https://i.imgur.com/Rc4RjmB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The figure above describe the steps used to grant access to anyone (ananimous user) who visited osTicket website to be able to cretae a ticket. Meaning, those who are not user of the platform could visit it and raise a ticket regarding any issues. On the admin panel, settings and user settions buttons are used as shown above.
+The figure above shows the steps used in granting access to anyone (ananimous user) visiting osTicket website, the ability to cretae a ticket. Meaning, those who are not agent-users of the platform could visit it and raise a ticket regarding any issues. On the admin panel, settings and users buttons are used as shown above.
 </p>
 <br />
 
