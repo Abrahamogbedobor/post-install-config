@@ -50,7 +50,7 @@ The above interface comprises of two users of the osTicket platform such as 'adm
 <img src="https://i.imgur.com/W48pux7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In configuring a new role/department by syst-admin the configuration steps involves a click on Agent..> Roles..> on the admin panel. These steps were based on osTicket documentation on Azure. Note, roles are permision granted to ageents based on department they have access to. In the above figure, a role was created called supreme admin and this agent was granted some permision by syst-admin.
+In configuring a new role/department by syst-admin the configuration steps involves a click on Agent..> Roles..> on the admin panel. These steps were based on osTicket documentation on Azure. Note, roles are permision granted to agents based on department they have access to. In the above figure, a role was created called supreme admin and this agent was granted some permision by syst-admin.
 </p>
 <br />
 
@@ -74,7 +74,7 @@ A new department was created named 'System Administrator' using default SLA and 
 <img src="https://i.imgur.com/Su783jY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The figure above is team which allows system administrators to pull different agents from various department into one single group. 
+Team invoves pulling different agents from various department into one single group to solve specific issue.
 </p>
 <br />
 
