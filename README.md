@@ -79,10 +79,10 @@ Team involves pulling different agents from various department into one single g
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Rc4RjmB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The figure above is used by system administrator to describe the steps used to grant access to anyone (ananimous user) who visited osTicket website to be able to cretae a ticket. Meaning, those who are not user of the platform could visit it and raise a ticket regarding issues.
+The figure above describe the steps used to grant access to anyone (ananimous user) who visited osTicket website to be able to cretae a ticket. Meaning, those who are not user of the platform could visit it and raise a ticket regarding any issues. On the admin panel, settings and user settions buttons are used as shown above.
 </p>
 <br />
 
