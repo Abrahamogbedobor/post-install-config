@@ -90,6 +90,6 @@ The figure above shows the steps used in granting access to anyone (ananimous us
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The figure above is team which allows system administrators to pull different agents from various department into one single group. 
+This steps involves creating agents and assigning permission to them. These set of users respond to tickets raised by users as well as recolving them. On the admin panel, 
 </p>
 <br />
