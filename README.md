@@ -22,9 +22,9 @@ This tutorial outlines the post-installation configuration of the open-source he
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Creating Roles, Departments, Users
+- Creating Roles, Departments, and Teams
+- Creating Uers
 - Defining SLA
-- Creating Severity Level
 - Install C++ Redistributable
 - Installation of OSTicket and Setting up Permission
 
