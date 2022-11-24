@@ -74,7 +74,7 @@ A new department was created named 'System Administrator' using default SLA and 
 <img src="https://i.imgur.com/Su783jY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Team invoves pulling different agents from various department into one single group to solve specific issue. From the above figure level 11 support team was created with no team leader assigned to it.
+Team involves pulling different agents from various department into one single group to solve specific issue. From the above figure level 11 support team was created with no team leader assigned to it.
 </p>
 <br />
 
@@ -82,7 +82,7 @@ Team invoves pulling different agents from various department into one single gr
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The figure above is team which allows system administrators to pull different agents from various department into one single group. 
+The figure above is used by system administrator to describe the steps used to grant access to anyone (ananimous user) who visited osTicket website to be able to cretae a ticket. Meaning, those who are not user of the platform could visit it and raise a ticket regarding issues.
 </p>
 <br />
 
