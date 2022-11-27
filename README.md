@@ -87,9 +87,9 @@ The figure above shows the steps used in granting access to anyone (ananimous us
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/T2VzMOO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This steps involves creating agents and assigning permission to them. These set of users respond to tickets raised by users as well as recolving them. On the admin panel, 
+This steps involves creating agents and assigning permission to them. Agents responds and resolve tickets created by users, the figure above shows the tepes used in setting up the  On the admin panel, 
 </p>
 <br />
