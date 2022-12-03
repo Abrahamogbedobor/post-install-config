@@ -111,10 +111,10 @@ Roles that were created earlier such as 'Supreme Admin' was assigned to Jane Doe
 <br />
 
 <p>
-<img src="https://i.imgur.com/inrmJHh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MyMW2D3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This steps involves creating agents and assigning permission to them. Agents responds and resolve tickets created by users, the figure above shows the steps used in setting up agents in the admin panel.
+The above figue shows how users is been created on osTicketing syste. Users are the oner of the ticket that was riaed on osTicketing help desk. Users is been added from the agent pannel suchh as -->Users -->
 </p>
 <br />
 
