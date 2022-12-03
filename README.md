@@ -87,9 +87,9 @@ The figure above shows the steps used in granting access to anyone (ananimous us
 <br />
 
 <p>
-<img src="https://i.imgur.com/T2VzMOO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/inrmJHh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This steps involves creating agents and assigning permission to them. Agents responds and resolve tickets created by users, the figure above shows the steps used in setting up the  On the admin panel, 
+This steps involves creating agents and assigning permission to them. Agents responds and resolve tickets created by users, the figure above shows the steps used in setting up agents in the admin panel.
 </p>
 <br />
