@@ -94,11 +94,35 @@ This steps involves creating agents and assigning permission to them. Agents res
 </p>
 <br />
 
-
+<p>
 <img src="https://i.imgur.com/kdU7UxO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 A new agent was created named Jane Doe with a set user name and password as shown above. Aftr a click on the 'set password' button at the far-right both box were unchecked hence, agents were not required in changing their password when logging-in
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/T61YCAd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Roles that were created earlier such as 'Supreme Admin' was assigned to Jane Doe a newly created agent as shown above.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/inrmJHh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This steps involves creating agents and assigning permission to them. Agents responds and resolve tickets created by users, the figure above shows the steps used in setting up agents in the admin panel.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/inrmJHh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This steps involves creating agents and assigning permission to them. Agents responds and resolve tickets created by users, the figure above shows the steps used in setting up agents in the admin panel.
 </p>
 <br />
 
