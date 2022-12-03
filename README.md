@@ -82,7 +82,7 @@ Team involves pulling different agents from various department into one single g
 <img src="https://i.imgur.com/Rc4RjmB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The figure above shows the steps used in granting access to anyone (ananimous user) visiting osTicket website, the ability to cretae a ticket. Meaning, those who are not agent-users of the platform could visit it and raise a ticket regarding any issues. On the admin panel, settings and users buttons are used as shown above.
+The figure above shows the steps used in granting access to anyone (ananimous user) visiting osTicket website that intend creating a ticket. Meaning, those who are not agent-users of the platform could visit it and raise a ticket regarding any issues. On the admin panel a click on settings -->users and -->settings enables syst-admin to grant access to ananimouse users as shown above. Lastly, the registration required button was checked in completing the process above.
 </p>
 <br />
 
@@ -90,6 +90,6 @@ The figure above shows the steps used in granting access to anyone (ananimous us
 <img src="https://i.imgur.com/T2VzMOO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This steps involves creating agents and assigning permission to them. Agents responds and resolve tickets created by users, the figure above shows the tepes used in setting up the  On the admin panel, 
+This steps involves creating agents and assigning permission to them. Agents responds and resolve tickets created by users, the figure above shows the steps used in setting up the  On the admin panel, 
 </p>
 <br />
