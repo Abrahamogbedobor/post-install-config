@@ -98,7 +98,7 @@ This steps involves creating agents and assigning permission to them. Agents res
 <img src="https://i.imgur.com/kdU7UxO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-A new agent was created named Jane Doe with a set user name and password as shown above 
+A new agent was created named Jane Doe with a set user name and password as shown above. Aftr a click on the 'set password' button at the far-right both box were unchecked hence, agents were not required in changing their password when logging-in
 </p>
 <br />
 
