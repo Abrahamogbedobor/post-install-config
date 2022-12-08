@@ -26,7 +26,6 @@ This tutorial outlines the post-installation configuration of the open-source he
 - Creating Users (Ananimous and Agents)
 - Defining SLA
 - Configuring Help Topics
-- Installation of OSTicket and Setting up Permission
 
 <h2>Configuration Steps</h2>
 
