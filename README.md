@@ -133,6 +133,6 @@ Defining SLA (Service Level Agreement) plan involves setting up the lenght of ti
 <img src="https://i.imgur.com/inrmJHh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-OsTicet help topics involves password reset, equipment refresh, and so on that users needed to fill when raising a ticket.
+OsTicet help topics involves password reset, logging issue, equipment refresh and new equipmen that users needed to fill when raising a ticket.
 </p>
 <br />
