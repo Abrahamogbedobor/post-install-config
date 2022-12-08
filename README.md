@@ -112,9 +112,10 @@ Roles that were created earlier such as 'Supreme Admin' was assigned to Jane Doe
 
 <p>
 <img src="https://i.imgur.com/MyMW2D3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aGCEuWA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figue shows how users is been created on osTicketing system. Users raised tivkets for help desk operators resolved and respond to. Users is been added using the agent pannel such as -->Users -->
+The above figues shows how users are created on osTicketing system. Users raised tickets for help desk operators to resolved and respond to. Users are created using the agent pannel such as -->Users --> add Users as shown above
 </p>
 <br />
 
