@@ -138,7 +138,7 @@ This steps involves creating agents and assigning permission to them. Agents res
 <p>
 <img src="https://i.imgur.com/a0ig9i5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/Gsxa0jm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/a0ig9i5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DuCcX3u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Defining SLA (Service Level Agreement) plan involves setting up the lenght of time by-which help desk administrator expects a ticket to be closed. The configuration process in osTicketing platform involves -->Admin panel-->Manage-->SLA. SLA severity level such as SEV-A, SEV-B, and SEV-C are used to determine the priority level that is given to tickets raised by users with different grace period as shown above.
