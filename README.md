@@ -133,6 +133,6 @@ Defining SLA (Service Level Agreement) plan involves setting up the lenght of ti
 <img src="https://i.imgur.com/inrmJHh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This steps involves creating agents and assigning permission to them. Agents responds and resolve tickets created by users, the figure above shows the steps used in setting up agents in the admin panel.
+OsTicet help topics involves password reset, equipment refresh, and so on that users needed to fill when raising a ticket.
 </p>
 <br />
