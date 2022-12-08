@@ -139,6 +139,6 @@ This steps involves creating agents and assigning permission to them. Agents res
 <img src="https://i.imgur.com/inrmJHh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This steps involves creating agents and assigning permission to them. Agents responds and resolve tickets created by users, the figure above shows the steps used in setting up agents in the admin panel.
+Defining SLA (Service Level Agreement) plan involves setting up the lenght of time by-which help desk administrator expects a ticket to be closed. The configuration process involves -->Admin panel-->Manage-->SLA as shonwn above
 </p>
 <br />
