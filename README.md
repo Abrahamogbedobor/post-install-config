@@ -25,7 +25,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 - Creating Roles, Departments, and Teams
 - Creating Users (Ananimous and Agents)
 - Defining SLA
-- Install C++ Redistributable
+- Configuring Help Topics
 - Installation of OSTicket and Setting up Permission
 
 <h2>Configuration Steps</h2>
@@ -120,27 +120,19 @@ The above figues shows how users are created on osTicketing system. Users raised
 <br />
 
 <p>
-<img src="https://i.imgur.com/inrmJHh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-This steps involves creating agents and assigning permission to them. Agents responds and resolve tickets created by users, the figure above shows the steps used in setting up agents in the admin panel.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/inrmJHh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-This steps involves creating agents and assigning permission to them. Agents responds and resolve tickets created by users, the figure above shows the steps used in setting up agents in the admin panel.
-</p>
-<br />
-
-<p>
 <img src="https://i.imgur.com/a0ig9i5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/Gsxa0jm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/DuCcX3u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Defining SLA (Service Level Agreement) plan involves setting up the lenght of time by-which help desk administrator expects a ticket to be closed. The configuration process in osTicketing platform involves -->Admin panel-->Manage-->SLA. SLA severity level such as SEV-A, SEV-B, and SEV-C are used to determine the priority level that is given to tickets raised by users with different grace period as shown above.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/inrmJHh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This steps involves creating agents and assigning permission to them. Agents responds and resolve tickets created by users, the figure above shows the steps used in setting up agents in the admin panel.
 </p>
 <br />
